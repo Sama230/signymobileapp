@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "973489395308",
+    "project_id": "connectfirebase-92b37",
+    "storage_bucket": "connectfirebase-92b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973489395308:android:dcfa0a2f34de0b960bea49",
+        "android_client_info": {
+          "package_name": "com.example.signy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973489395308-6ev8ds8l27e7mb0issp7v2c1o8enbm73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxa6DFt2Cii_cc8d_a-wGH9DFEX53keQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973489395308-6ev8ds8l27e7mb0issp7v2c1o8enbm73.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973489395308-ohjbmedos1393e60uu7pc1uci9ofq5nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signyproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973489395308:android:28127504bb2d3b900bea49",
+        "android_client_info": {
+          "package_name": "com.example.signyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973489395308-6ev8ds8l27e7mb0issp7v2c1o8enbm73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxa6DFt2Cii_cc8d_a-wGH9DFEX53keQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973489395308-6ev8ds8l27e7mb0issp7v2c1o8enbm73.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973489395308-ohjbmedos1393e60uu7pc1uci9ofq5nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signyproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

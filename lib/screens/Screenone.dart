@@ -1,5 +1,6 @@
 import 'dart:html';
 
+import 'package:signy_app/screens/accountscreens.dart';
 import 'package:signy_app/screens/categoryscreens.dart';
 import 'package:flutter/material.dart';
 import 'package:signy_app/screens/placescreens.dart';
@@ -75,7 +76,7 @@ class _ScreenoneState extends State<Screenone> {
                   // Update the state of the app
                   // ...
                   // Then close the drawer
-                  Navigator.pop(context);
+                  Navigator.pushNamed(context, accountscreens.id);
                 },
               ),
             ],
